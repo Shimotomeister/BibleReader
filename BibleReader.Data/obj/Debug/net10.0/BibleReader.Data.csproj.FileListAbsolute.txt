@@ -1,0 +1,15 @@
+C:\BibleProj\BibleReader.Data\bin\Debug\net10.0\BibleReader.Data.deps.json
+C:\BibleProj\BibleReader.Data\bin\Debug\net10.0\BibleReader.Data.dll
+C:\BibleProj\BibleReader.Data\bin\Debug\net10.0\BibleReader.Data.pdb
+C:\BibleProj\BibleReader.Data\bin\Debug\net10.0\BibleReader.Core.dll
+C:\BibleProj\BibleReader.Data\bin\Debug\net10.0\BibleReader.Core.pdb
+C:\BibleProj\BibleReader.Data\obj\Debug\net10.0\BibleReader.Data.csproj.AssemblyReference.cache
+C:\BibleProj\BibleReader.Data\obj\Debug\net10.0\BibleReader.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\BibleProj\BibleReader.Data\obj\Debug\net10.0\BibleReader.Data.AssemblyInfoInputs.cache
+C:\BibleProj\BibleReader.Data\obj\Debug\net10.0\BibleReader.Data.AssemblyInfo.cs
+C:\BibleProj\BibleReader.Data\obj\Debug\net10.0\BibleReader.Data.csproj.CoreCompileInputs.cache
+C:\BibleProj\BibleReader.Data\obj\Debug\net10.0\BibleRea.451411EB.Up2Date
+C:\BibleProj\BibleReader.Data\obj\Debug\net10.0\BibleReader.Data.dll
+C:\BibleProj\BibleReader.Data\obj\Debug\net10.0\refint\BibleReader.Data.dll
+C:\BibleProj\BibleReader.Data\obj\Debug\net10.0\BibleReader.Data.pdb
+C:\BibleProj\BibleReader.Data\obj\Debug\net10.0\ref\BibleReader.Data.dll

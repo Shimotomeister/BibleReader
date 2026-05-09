@@ -1,0 +1,21 @@
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Avalonia designer cache
+*.axaml.cs.designer.cs

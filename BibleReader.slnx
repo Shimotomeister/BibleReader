@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BibleReader.App/BibleReader.App.csproj" />
+  <Project Path="BibleReader.Core/BibleReader.Core.csproj" />
+  <Project Path="BibleReader.Data/BibleReader.Data.csproj" />
+  <Project Path="BibleReader.Media/BibleReader.Media.csproj" />
+</Solution>

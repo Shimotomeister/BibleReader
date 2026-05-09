@@ -1,0 +1,11 @@
+C:\BibleProj\BibleReader.Media\bin\Debug\net10.0\BibleReader.Media.deps.json
+C:\BibleProj\BibleReader.Media\bin\Debug\net10.0\BibleReader.Media.dll
+C:\BibleProj\BibleReader.Media\bin\Debug\net10.0\BibleReader.Media.pdb
+C:\BibleProj\BibleReader.Media\obj\Debug\net10.0\BibleReader.Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\BibleProj\BibleReader.Media\obj\Debug\net10.0\BibleReader.Media.AssemblyInfoInputs.cache
+C:\BibleProj\BibleReader.Media\obj\Debug\net10.0\BibleReader.Media.AssemblyInfo.cs
+C:\BibleProj\BibleReader.Media\obj\Debug\net10.0\BibleReader.Media.csproj.CoreCompileInputs.cache
+C:\BibleProj\BibleReader.Media\obj\Debug\net10.0\BibleReader.Media.dll
+C:\BibleProj\BibleReader.Media\obj\Debug\net10.0\refint\BibleReader.Media.dll
+C:\BibleProj\BibleReader.Media\obj\Debug\net10.0\BibleReader.Media.pdb
+C:\BibleProj\BibleReader.Media\obj\Debug\net10.0\ref\BibleReader.Media.dll

@@ -1,0 +1,54 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:BibleReader.App.ViewModels"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="BibleReader.App.Views.MainWindow"
+        Icon="/Assets/avalonia-logo.ico"
+        Title="BibleReader.App">
+
+    <Design.DataContext>
+        <!-- This only sets the DataContext for the previewer in an IDE,
+             to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
+        <vm:MainWindowViewModel/>
+    </Design.DataContext>
+
+    <Grid RowDefinitions="Auto,*" ColumnDefinitions="*,*">
+
+        <!-- Book Title (Left Column Only) -->
+        <TextBlock Grid.Row="0" Grid.Column="0"
+                Text="{Binding BookTitle}"
+                FontWeight="Bold"
+                FontSize="20"
+                Margin="8,4,4,8" />
+
+        <!-- Empty placeholder for right column header -->
+        <TextBlock Grid.Row="0" Grid.Column="1" />
+
+        <!-- Two-column verse layout -->
+        <ListBox Grid.Row="1" Grid.Column="0" ItemsSource="{Binding LeftColumnVerses}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding}"
+                            TextWrapping="Wrap"
+                            Margin="4" />
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <ListBox Grid.Row="1" Grid.Column="1" ItemsSource="{Binding RightColumnVerses}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding}"
+                            TextWrapping="Wrap"
+                            Margin="4" />
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+    </Grid>
+ 
+
+
+</Window>
